@@ -1,2 +1,2 @@
-# mrbacco
-various codes
+# ruby
+various projects and scripts
