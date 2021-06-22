@@ -21,6 +21,7 @@ class PrimeNumbers                    # define a class called PrimeNumbers
   end
 end
 
+
 # calculate the time to enter the number, check if it's a prime number and print the result out
 time1 = Time.now
 p = PrimeNumbers.new
